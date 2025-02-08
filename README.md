@@ -88,14 +88,26 @@ The initial state of the game when it begins.
 
 The snake grows in size after eating food.
 
-**Food Generation Example**
-
-Food appears randomly on the game board.
+![Screenshot (10)](https://github.com/user-attachments/assets/22bcaeec-b6e8-46b1-b08d-37fc50d8d74b)
+![Screenshot (6)](https://github.com/user-attachments/assets/aaca1935-2ac7-42dc-9601-899df3f354eb)
 
 **Collision Detection**
 
 Game over screen when the snake collides with itself.
 
+![Screenshot (7)](https://github.com/user-attachments/assets/cd5c7461-76f0-4203-9f0d-ebe3e57c6433)
+
+![Screenshot (9)](https://github.com/user-attachments/assets/9f9d1480-a359-4f38-9d4e-5e9ffd1e0b75)
+
+
+
 **Highest Score Display**
 
 The score tracker shows the current and highest score.
+
+![Screenshot (9)](https://github.com/user-attachments/assets/c85719f4-3857-4fc3-8f6a-c760b857f40a)
+
+![Screenshot (10)](https://github.com/user-attachments/assets/93058aa6-65da-4a17-993e-68e1e8063ff8)
+
+
+
