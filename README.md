@@ -75,3 +75,27 @@ Project Structure
 The game is designed to run on the command line and uses basic Java for simplicity.
 
 This project demonstrates the use of object-oriented programming and data structures in Java.
+
+**OutPut** :
+
+**Game Start**
+
+The initial state of the game when it begins.
+![Screenshot (11)](https://github.com/user-attachments/assets/cb1af001-fe50-4aea-9f0e-69cb752aeae4)
+
+
+**Snake Growing**
+
+The snake grows in size after eating food.
+
+**Food Generation Example**
+
+Food appears randomly on the game board.
+
+**Collision Detection**
+
+Game over screen when the snake collides with itself.
+
+**Highest Score Display**
+
+The score tracker shows the current and highest score.
